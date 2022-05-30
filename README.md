@@ -36,6 +36,7 @@ Neste será criado um banco digital com algumas das características de um banco
 <br><br>
 <a href="https://github.com/IsabelaEstimado/GFT_Start_Woman/tree/main/Banco%20de%20dados%20e%20POO">Abrir Banco de dados e POO</a>
 </details>
+
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 * **[Java](https://www.java.com/pt-BR/)**
